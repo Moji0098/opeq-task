@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "901777f9fd268c539fb1ae78c70e1b35",
+    "revision": "85dfaac0b3213e4a4dc76bbfce69973a",
     "url": "/opeq-task/index.html"
   },
   {
